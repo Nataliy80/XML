@@ -1,1 +1,12 @@
-
+<xml>
+  
+  <Bug_id>...</Bug_id>
+  <Title>...</Title>
+  <Severity>...</Severity>
+  <Priority>...</Priority>
+  <Environment>...</Environment>
+  <Precondition>...</Precondition>
+  <STR>...</STR>
+  <AR>...</AR>
+  <ER>...</ER>
+  <Attachment>...</Attachment>
